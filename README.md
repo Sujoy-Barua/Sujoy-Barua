@@ -17,17 +17,25 @@ I am a Bangladeshi-American who moved to the United States in 2018. Proudly foll
 
 **Projects**: 
 ### 2023
-**Courses**: Data Structures II and Algorithms (EECS 281), Stats and Data Analysis (STATS 250), Computer Organization (EECS 370). Intro Cybersecurity (EECS 388)
+**Courses**: 
+- Data Structures II and Algorithms (EECS 281),
+- Stats and Data Analysis (STATS 250), Computer Organization (EECS 370),
+- Intro Cybersecurity (EECS 388).
 
 **Projects**: 
 
 ### 2022
-**Courses**:  Intro to Engineering: Design in Reverse (ENGR 100), Programming and Data Structures I (EECS 280), Discrete Math I (EECS 203), Calculus II (MATH 116).
+**Courses**: 
+- Intro to Engineering: Design in Reverse (ENGR 100),
+- Programming and Data Structures I (EECS 280),
+- Discrete Math I (EECS 203), Calculus II (MATH 116).
 
 **Projects**: 
 
 ### 2021
-**Courses**: Intro to Computers and Programming (ENGR 101), Calculus 1 (MATH 115).
+**Courses**: 
+- Intro to Computers and Programming (ENGR 101),
+- Calculus 1 (MATH 115).
 
 **Projects**: 
 
