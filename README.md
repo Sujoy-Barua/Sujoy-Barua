@@ -3,39 +3,43 @@ I'm a Senior at the University of Michigan in Ann Arbor studying Computer Scienc
 
 I am a Bangladeshi-American who moved to the United States in 2018. Proudly following in my parents' footsteps, I am the second generation in my family to attend college. I am driven by a desire to leverage technology to improve lives, particularly for those facing socioeconomic challenges. My firsthand experience of life in a developing country fuels my motivation to create innovative solutions that can drive positive change. My ultimate aspiration is to secure a leadership role in the tech industry, where I can create meaningful impacts and contribute to building a brighter future, especially for communities similar to my hometown.
 
-## Works in Progress (2024)
-**Courses**: (Capstone) Human-Centered SW (EECS 497), Introduction to Artificial Intelligence (EECS 492), Computer Networks (EECS 489).
+## Works in Progress (Summer to Fall 2024)
+**Courses**: 
+- (Capstone) Human-Centered SW (EECS 497)
+- Introduction to Artificial Intelligence (EECS 492)
+- Computer Networks (EECS 489).
 
 **Projects**:
 
 ## Completed
 ### 2024
 **Courses**: 
-- Foundation of Computer Science / Discrete Math II (EECS 376), 
-- Software Engineering (EECS 481), 
-- Database Management Systems (EECS 484).
+- Foundation of Computer Science / Discrete Math II (EECS 376)
+- Software Engineering (EECS 481)
+- Database Management Systems (EECS 484)
 
 **Projects**: 
 ### 2023
 **Courses**: 
-- Data Structures II and Algorithms (EECS 281),
-- Stats and Data Analysis (STATS 250), Computer Organization (EECS 370),
-- Intro Cybersecurity (EECS 388).
+- Data Structures II and Algorithms (EECS 281)
+- Stats and Data Analysis (STATS 250), Computer Organization (EECS 370)
+- Intro Cybersecurity (EECS 388)
 
 **Projects**: 
 
 ### 2022
 **Courses**: 
-- Intro to Engineering: Design in Reverse (ENGR 100),
-- Programming and Data Structures I (EECS 280),
-- Discrete Math I (EECS 203), Calculus II (MATH 116).
+- Intro to Engineering: Design in Reverse (ENGR 100)
+- Programming and Data Structures I (EECS 280)
+- Discrete Math I (EECS 203)
+- Calculus II (MATH 116)
 
 **Projects**: 
 
 ### 2021
 **Courses**: 
-- Intro to Computers and Programming (ENGR 101),
-- Calculus 1 (MATH 115).
+- Intro to Computers and Programming (ENGR 101)
+- Calculus 1 (MATH 115)
 
 **Projects**: 
 
