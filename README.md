@@ -22,7 +22,8 @@ I am a Bangladeshi-American who moved to the United States in 2018. Proudly foll
 ### 2023
 **Courses**: 
 - Data Structures II and Algorithms (EECS 281)
-- Stats and Data Analysis (STATS 250), Computer Organization (EECS 370)
+- Stats and Data Analysis (STATS 250)
+- Computer Organization (EECS 370)
 - Intro Cybersecurity (EECS 388)
 
 **Projects**: 
