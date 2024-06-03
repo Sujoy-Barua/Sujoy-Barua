@@ -5,6 +5,7 @@ I am a Bangladeshi-American who moved to the United States in 2018. Proudly foll
 
 ## Works in Progress (Summer to Fall 2024)
 **Courses**: 
+- Linear Algebra (MATH 214)
 - (Capstone) Human-Centered SW (EECS 497)
 - Introduction to Artificial Intelligence (EECS 492)
 - Computer Networks (EECS 489).
