@@ -44,6 +44,7 @@ I am a Bangladeshi-American who moved to the United States in 2018. Proudly foll
 - Calculus I (MATH 115)
 
 **Projects**: 
+- [Matlab project 1 (writing functions)](https://github.com/Sujoy-Barua/fall21p1)
 
 <!--
 **Sujoy-Barua/Sujoy-Barua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
