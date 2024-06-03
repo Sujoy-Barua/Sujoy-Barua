@@ -10,7 +10,10 @@ I am a Bangladeshi-American who moved to the United States in 2018. Proudly foll
 
 ## Completed
 ### 2024
-**Courses**: Foundation of Computer Science / Discrete Math II (EECS 376), Software Engineering (EECS 481). Database Management Systems (EECS 484).
+**Courses**: 
+- Foundation of Computer Science / Discrete Math II (EECS 376), 
+- Software Engineering (EECS 481), 
+- Database Management Systems (EECS 484).
 
 **Projects**: 
 ### 2023
