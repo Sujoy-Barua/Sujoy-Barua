@@ -40,7 +40,7 @@ I am a Bangladeshi-American who moved to the United States in 2018. Proudly foll
 ### 2021
 **Courses**: 
 - Intro to Computers and Programming (ENGR 101)
-- Calculus 1 (MATH 115)
+- Calculus I (MATH 115)
 
 **Projects**: 
 
