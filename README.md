@@ -4,8 +4,9 @@ I'm a Junior at the University of Michigan in Ann Arbor studying Computer Scienc
 I am a Bangladeshi-American who moved to the United States in 2018. Proudly following in my parents' footsteps, I am the second generation in my family to attend college. I am driven by a desire to leverage technology to improve lives, particularly for those facing socioeconomic challenges. My firsthand experience of life in a developing country fuels my motivation to create innovative solutions that can drive positive change. My ultimate aspiration is to secure a leadership role in the tech industry, where I can create meaningful impacts and contribute to building a brighter future, especially for communities similar to my hometown.
 
 ## In Progress (2024)
-**Courses**:
-**Projects**:
+**Courses** :
+
+**Projects** :
 
 ## Completed
 ### 2023
