@@ -48,6 +48,8 @@ I am a Bangladeshi-American who moved to the United States in 2018. Proudly foll
 - [Image Processing in MATLAB](https://github.com/Sujoy-Barua/fall21p2/blob/main/README.md)
 - [Analyzing files and graphing in MATLAB](https://github.com/Sujoy-Barua/fall21p3/blob/main/README.md)
 - [C++ Loops](https://github.com/Sujoy-Barua/fall21p4/blob/main/README.md)
+- [C++ I/O, functions, strings, vectors](https://github.com/Sujoy-Barua/fall21p5/blob/main/README.md)
+- [C++ Data Structures](https://github.com/Sujoy-Barua/fall21p6/blob/main/README.md)
 
 <!--
 **Sujoy-Barua/Sujoy-Barua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
