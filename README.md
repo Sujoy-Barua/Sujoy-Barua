@@ -1,5 +1,5 @@
 ## Hi there 👋, I'm Sujoy.
-
+I'm a Junior at the University of Michigan in Ann Arbor studying Computer Science.
 <!--
 **Sujoy-Barua/Sujoy-Barua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
