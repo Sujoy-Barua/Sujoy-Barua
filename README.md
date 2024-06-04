@@ -32,8 +32,10 @@ I am a Bangladeshi-American who moved to the United States in 2018. I am driven 
 - [Priority Queues in C++](https://github.com/Sujoy-Barua/w23p2/blob/main/README.md)
 - [SQL and Relational Database using C++](https://github.com/Sujoy-Barua/w23p3/blob/main/README.md)
 - [MST, TSP, and Branch and Bound algorithm in C++](https://github.com/Sujoy-Barua/w23p4/blob/main/README.md)
-
-- 
+- [Simple Assembly to Machine Code generator using C](https://github.com/Sujoy-Barua/f23-70p1a/blob/main/README.md)
+- [Machine Code Simulator using C](https://github.com/Sujoy-Barua/f23-70p1s/blob/main/README.md)
+- [Multi Assembly to Object File generator using C](https://github.com/Sujoy-Barua/f23-70p2a/blob/main/README.md)
+- [Multi Assembly Linker using C](https://github.com/Sujoy-Barua/f23-70p2l/blob/main/README.md)
 
 ### 2022
 **Courses**: 
