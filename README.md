@@ -30,6 +30,7 @@ I am a Bangladeshi-American who moved to the United States in 2018. Proudly foll
 **Projects**:
 - [3D Maze Navigation and Search Algorithms in C++](https://github.com/Sujoy-Barua/w23p1/blob/main/README.md)
 - [Priority Queues in C++](https://github.com/Sujoy-Barua/w23p2/blob/main/README.md)
+- [SQL and Relational Database using C++](https://github.com/Sujoy-Barua/w23p3/blob/main/README.md)
 
 ### 2022
 **Courses**: 
