@@ -37,6 +37,8 @@ I am a Bangladeshi-American who moved to the United States in 2018. Proudly foll
 - Calculus II (MATH 116)
 
 **Projects**: 
+- [Statistical Machine Model using C++](https://github.com/Sujoy-Barua/wn22p1/blob/main/README.md)
+- [Content Aware Resizing of Image using C++](https://github.com/Sujoy-Barua/wn22p2/blob/main/README.md)
 
 ### 2021
 **Courses**: 
