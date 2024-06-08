@@ -11,6 +11,7 @@ I am a Bangladeshi-American who moved to the United States in 2018. I am driven 
 - Computer Networks (EECS 489).
 
 **Projects**:
+- Degree Requirements Management Software
 
 ## Completed
 ### 2024
@@ -20,6 +21,8 @@ I am a Bangladeshi-American who moved to the United States in 2018. I am driven 
 - Database Management Systems (EECS 484)
 
 **Projects**: 
+- [Uber Clone](https://github.com/Sujoy-Barua/su24p1UC/blob/main/README.md)
+  
 ### 2023
 **Courses**: 
 - Data Structures II and Algorithms (EECS 281)
