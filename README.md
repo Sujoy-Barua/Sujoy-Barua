@@ -11,7 +11,8 @@ I am a Bangladeshi-American who moved to the United States in 2018. I am driven 
 - Computer Networks (EECS 489).
 
 **Projects**:
-- Degree Requirements Management Software
+- [Note Taking Web App Using Python, Flask, and a Database](https://github.com/Sujoy-Barua/pythonwebappSB)
+- [E-Commerce Website using HTML, CSS, JS](https://github.com/Sujoy-Barua/ecomwebproj)
 
 ## Completed
 ### 2024
