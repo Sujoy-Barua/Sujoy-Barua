@@ -5,7 +5,6 @@ I am a Bangladeshi-American who moved to the United States in 2018. I am driven 
 
 ## Works in Progress (Summer to Fall 2024)
 **Courses**: 
-- Linear Algebra (MATH 214)
 - (Capstone) Human-Centered SW (EECS 497)
 - Introduction to Artificial Intelligence (EECS 492)
 - Computer Networks (EECS 489).
@@ -20,6 +19,7 @@ I am a Bangladeshi-American who moved to the United States in 2018. I am driven 
 - Foundation of Computer Science / Discrete Math II (EECS 376)
 - Software Engineering (EECS 481)
 - Database Management Systems (EECS 484)
+- Linear Algebra (MATH 214)
 
 **Projects**: 
 - [Uber Clone using ReactJS, NextJS, Tailwind CSS, and Firebase](https://github.com/Sujoy-Barua/su24p1UC/blob/main/README.md)
