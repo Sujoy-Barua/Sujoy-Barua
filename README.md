@@ -12,6 +12,7 @@ Here is a list of my projects and their demo videos.
 **Projects**:
 - [Note Taking Web App Using Python, Flask, and a Database](https://github.com/Sujoy-Barua/pythonwebappSB)
 - [E-Commerce Website using HTML, CSS, JS](https://github.com/Sujoy-Barua/ecomwebproj)
+- [Twitter Clone](https://github.com/Sujoy-Barua/twitter-clone-sb)
 
 ## Completed
 ### 2024
