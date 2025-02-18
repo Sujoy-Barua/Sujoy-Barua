@@ -3,11 +3,10 @@ I'm a Senior at the University of Michigan, located in Ann Arbor, Michigan, majo
 
 Here is a list of my projects and their demo videos. 
 
-## Works in Progress (Summer to Fall 2024)
+## Works in Progress (Winter 2025)
 **Courses**: 
-- (Capstone) Human-Centered SW (EECS 497)
-- Introduction to Artificial Intelligence (EECS 492)
-- Computer Networks (EECS 489).
+- Programming Paradigms (EECS 390)
+- Data Mining (EECS 476)
 
 **Projects**:
 - [Note Taking Web App Using Python, Flask, and a Database](https://github.com/Sujoy-Barua/pythonwebappSB)
@@ -16,7 +15,9 @@ Here is a list of my projects and their demo videos.
 
 ## Completed
 ### 2024
-**Courses**: 
+**Courses**:
+- (Capstone) Human-Centered SW (EECS 497)
+- Computer Networks (EECS 489).
 - Foundation of Computer Science / Discrete Math II (EECS 376)
 - Software Engineering (EECS 481)
 - Database Management Systems (EECS 484)
