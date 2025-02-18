@@ -1,7 +1,9 @@
 ## Hi there, I'm Sujoy Barua.
 I'm a Senior at the University of Michigan, located in Ann Arbor, Michigan, majoring in Computer Science.
 
-Here is a list of my projects and their demo videos. 
+Here is a list of my projects and courseworks. 
+
+[ Class project links repos are private due to honor code requirements, and can only be privately shared upon request by recruiters] 
 
 ## Works in Progress (Winter 2025)
 **Courses**: 
